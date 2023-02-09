@@ -12,4 +12,7 @@
   "scripts": {
     "start": "node server.js"
   }
+  "author": {
+    "name": "Mark Seidman"
+  }
 }
